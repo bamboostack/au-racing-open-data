@@ -3,11 +3,11 @@
 Race-day weigh-in weights, to 0.1 kg, for Victorian greyhound racing.
 
 <!-- AUTOSTATS:BEGIN -->
-**29,819 weigh-ins** · 3,339 greyhounds · 70 race day(s) · 2026-09-12 → 2026-11-20
+**30,256 weigh-ins** · 3,342 greyhounds · 71 race day(s) · 2026-09-12 → 2026-11-21
 
 > This dataset grows forward only — the source page is overwritten daily, so every day collected is a day that would otherwise have been lost.
 
-_Last rebuilt 2026-11-20._
+_Last rebuilt 2026-11-21._
 <!-- AUTOSTATS:END -->
 
 ## Why this archive exists at all
