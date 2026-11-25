@@ -9,9 +9,9 @@ bulk — it otherwise exists only in per-meeting PDFs, or as a commercial
 bulk feed from the timing vendor.
 
 <!-- AUTOSTATS:BEGIN -->
-**83,646 runner-rows** · 9,381 races · 24 venues · 2024-01-24 → 2026-11-23 · 3 yearly files
+**83,716 runner-rows** · 9,389 races · 24 venues · 2024-01-24 → 2026-11-24 · 3 yearly files
 
-_Last rebuilt 2026-11-24._
+_Last rebuilt 2026-11-25._
 <!-- AUTOSTATS:END -->
 
 ## Why this exists
